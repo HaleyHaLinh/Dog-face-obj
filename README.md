@@ -1,1 +1,3 @@
 # Dog-face-obj
+Hello! Thank you for downloading
+If you use/edit anything, please credit, or else...
